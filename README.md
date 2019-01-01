@@ -7,9 +7,11 @@ As of right now there is no live demo but if you wish to set it up, import the <
 Then access it via index.html
 There are five users with different roles for each.<br/>
 The usernames for following roles is:<br/><br/>
-<li>adminUser<li/>
-<li>leagueUser<li/>
-<li>teamUser<li/>
-<li>coachUser<li/>
-<li>parentUser<li/>
+<ul>
+<li>adminUser</li>
+<li>leagueUser</li>
+<li>teamUser</li>
+<li>coachUser</li>
+<li>parentUser</li>
+</ul>
 All of their password is 'password' without the quotes.

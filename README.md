@@ -6,7 +6,7 @@ Created with <a href="https://startbootstrap.com/template-overviews/sb-admin-2/"
 As of right now there is no live demo but if you wish to set it up, import the <b>maintable.sql</b> MySQL table<br/>
 Then access it via index.html
 There are five users with different roles for each.<br/>
-The usernames for following roles is:<br/><br/>
+The usernames for following roles is:
 <ul>
 <li>adminUser</li>
 <li>leagueUser</li>

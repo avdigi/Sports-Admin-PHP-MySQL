@@ -12,5 +12,6 @@ The usernames for following roles is:<br/><br/>
 <li>leagueUser<li/>
 <li>teamUser<li/>
 <li>coachUser<li/>
-<li>parentUser<li/><br/>
+<li>parentUser<li/>
+</ul>
 All of their password is 'password' without the quotes.
